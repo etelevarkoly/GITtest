@@ -1,0 +1,4 @@
+[    4.709766] EXT4-fs (sda2): re-mounted. Opts: errors=remount-ro
+[11218.627045] Chrome_~dThread[2065]: segfault at 0 ip 00007f47e4ae2fb1 sp 00007f47e2b9cad0 error 6 in libxul.so[7f47e4acf000+3a27000]
+[11218.638351] Chrome_~dThread[3189]: segfault at 0 ip 00007f0443e92fb1 sp 00007f0441f4cad0 error 6 in libxul.so[7f0443e7f000+3a27000]
+[11218.647216] Chrome_~dThread[3018]: segfault at 0 ip 00007f0b0ec7cfb1 sp 00007f0b0cd36ad0 error 6 in libxul.so[7f0b0ec69000+3a27000]
